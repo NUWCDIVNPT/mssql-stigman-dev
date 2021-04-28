@@ -15,7 +15,7 @@ SA_PASSWORD = `gr8Times!`
 
 |Database|User|Password|
 |---|---|---|
-|StigManager|stigman|Stig_Man_1|
+|stigman|stigman|Stig_Man_1|
 
 ## Docker Hub
 
