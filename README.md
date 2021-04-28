@@ -7,7 +7,7 @@ Build files for a Microsoft SQL Server 2019 container image for development.
 
 ## Run
 
-` docker run -p 1443:1443 <tag>`
+` docker run -p 1433:1433 <tag>`
 
 ## Pre-initialized database and users
 
