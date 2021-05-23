@@ -1,5 +1,10 @@
 # mssql-stigman-dev
 Build files for a Microsoft SQL Server 2019 container image for development.
+- Configures `'clr strict security',0`
+- Configures `'clr enabled',1`
+- Includes GROUP_CONCAT aggregate functions built from
+[https://github.com/orlando-colamatteo/ms-sql-server-group-concat-sqlclr](https://github.com/orlando-colamatteo/ms-sql-server-group-concat-sqlclr)
+
 
 ## Build
 
